@@ -1,5 +1,7 @@
 # LLM Based Medical Chatbot -> Your Local Hakeem!
 
+![Chatbot Image](./interface.png)
+
 
 # How to run?
 ### STEPS:
