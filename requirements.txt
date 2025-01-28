@@ -8,4 +8,4 @@ langchain-pinecone
 langchain_community
 langchain_experimental
 langchain-google-genai
--e .
+#-e .
